@@ -1,1 +1,5 @@
 rootProject.name = 'HttpServer'
+include 'EmployeeCore'
+include 'employee-service'
+include 'employee-async'
+
